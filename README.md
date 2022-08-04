@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="36da5b9bad4758b6cac6ebc194e14e37">
+<div id="372b559e736547e7e2a151097eb3603f">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
                 <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
-                <td></td>
+                <td><img src="badges/426780171280.png" width="120px" alt="Cloud Sec"></td>
                 <td></td>
             </tr>
         </tbody>
