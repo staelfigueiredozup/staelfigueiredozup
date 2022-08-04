@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' /><img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' /><img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' /><!-- NÃO ALTERE O BLOCO ABAIXO -->
+<!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
 <div id="36da5b9bad4758b6cac6ebc194e14e37">
     <table border="1px" width="300px" align="center">
